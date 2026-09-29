@@ -1,0 +1,33 @@
+@font-face {
+	font-family: 'GmarketSans';
+	src: url("2a77b1bc_GmarketSansTTFLight.eot");
+	src: url("5f533116_GmarketSansTTFLight.eot") format('embedded-opentype'),
+	url("cd51a62b_GmarketSansTTFLight.woff2") format('woff2'),
+	url("f3e4c48e_GmarketSansTTFLight.woff") format('woff'),
+	url("6812e35b_GmarketSansLight.ttf") format('truetype');
+	font-weight: 300;
+	font-style: normal;
+	font-display: swap;
+}
+@font-face {
+	font-family: 'GmarketSans';
+	src: url("a3775b82_GmarketSansTTFMedium.eot");
+	src: url("a74742ab_GmarketSansTTFMedium.eot") format('embedded-opentype'),
+	url("4ea6e334_GmarketSansTTFMedium.woff2") format('woff2'),
+	url("a77cf37b_GmarketSansTTFMedium.woff") format('woff'),
+	url("7233dcd2_GmarketSansMedium.ttf") format('truetype');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+@font-face {
+	font-family: 'GmarketSans';
+	src: url("1f8dc159_GmarketSansTTFBold.eot");
+	src: url("eff68a61_GmarketSansTTFBold.eot") format('embedded-opentype'),
+	url("d7f4c180_GmarketSansTTFBold.woff2") format('woff2'),
+	url("e7f90590_GmarketSansTTFBold.woff") format('woff'),
+	url("ff4ec5fd_GmarketSansBold.ttf") format('truetype');
+	font-weight: 700;
+	font-style: normal;
+	font-display: swap;
+}

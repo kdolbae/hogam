@@ -1,0 +1,51 @@
+@font-face {
+	font-family: 'Caudex';
+	src: local('Caudex Regular'),
+	url("50df29a6_Caudex-Regular.eot"),
+	url("89c4ac4a_Caudex-Regular.eot") format('embedded-opentype'),
+	url("3a6e4961_Caudex-Regular.woff2") format('woff'),
+	url("2fa57f1e_Caudex-Regular.woff") format('woff'),
+	url("def3dffd_Caudex-Regular.ttf") format('truetype');
+	font-style: normal;
+	font-weight: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Caudex';
+	src: local('Caudex Bold'),
+	url("7bb37a96_Caudex-Bold.eot"),
+	url("c5aff7cf_Caudex-Bold.eot") format('embedded-opentype'),
+	url("51d0ee8b_Caudex-Bold.woff2") format('woff'),
+	url("fe313f22_Caudex-Bold.woff") format('woff'),
+	url("1c4ee4bd_Caudex-Bold.ttf") format('truetype');
+	font-style: normal;
+	font-weight: bold;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Caudex';
+	src: local('Caudex Italic'),
+	url("e0836f37_Caudex-Italic.eot"),
+	url("b696129a_Caudex-Italic.eot") format('embedded-opentype'),
+	url("67deb2ee_Caudex-Italic.woff2") format('woff'),
+	url("bff01657_Caudex-Italic.woff") format('woff'),
+	url("0c2ac900_Caudex-Italic.ttf") format('truetype');
+	font-style: italic;
+	font-weight: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Caudex';
+	src: local('Caudex BoldItalic'),
+	url("6f2ae24a_Caudex-BoldItalic.eot"),
+	url("099ef99e_Caudex-BoldItalic.eot") format('embedded-opentype'),
+	url("766f8db2_Caudex-BoldItalic.woff2") format('woff'),
+	url("c8b403f6_Caudex-BoldItalic.woff") format('woff'),
+	url("32ea4a8c_Caudex-BoldItalic.ttf") format('truetype');
+	font-style: italic;
+	font-weight: bold;
+	font-display: swap;
+}
