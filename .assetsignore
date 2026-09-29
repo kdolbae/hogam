@@ -1,0 +1,7 @@
+.git
+.wrangler
+.gitignore
+.assetsignore
+build.py
+wrangler.jsonc
+__pycache__
