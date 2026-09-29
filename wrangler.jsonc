@@ -4,9 +4,12 @@
   "workers_dev": true,
   "preview_urls": false,
   // 도메인 네임서버를 Cloudflare로 옮긴 뒤 아래 주석을 풀고 다시 배포
+  "routes": [
+    { "pattern": "ho-gam.com", "custom_domain": true },
+    { "pattern": "www.ho-gam.com", "custom_domain": true }
+  ],
+  // 호텔감성.com 네임서버를 Cloudflare로 옮긴 뒤 추가
   // "routes": [
-  //   { "pattern": "ho-gam.com", "custom_domain": true },
-  //   { "pattern": "www.ho-gam.com", "custom_domain": true },
   //   { "pattern": "xn--439as41bbylcte.com", "custom_domain": true },
   //   { "pattern": "www.xn--439as41bbylcte.com", "custom_domain": true }
   // ],
